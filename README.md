@@ -20,6 +20,10 @@
 
 **Additional work:** [Company operations platform](cases/tn-platform.md), [research interests and roadmap](RESEARCH.md).
 
+### Public code you can actually run
+
+To make the engineering approach inspectable without disclosing private application source, this repository includes **[two small, independently authored Python reference examples](examples/README.md)**: a fail-closed [citation gate](examples/citation_guard.py) and a read-only [BMS observation state model](examples/bms_observation.py). All **14 unit tests passed** using Python 3.13 in a clean clone. These are educational examples, **not** exported production code.
+
 ## Engineering themes
 
 - **Control & autonomy:** Industrial automation, PLCs, BMS integration, monitoring and robotics.
