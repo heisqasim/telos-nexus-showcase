@@ -12,7 +12,7 @@
 | Project | Focus | Verifiable evidence | Actual stage |
 | --- | --- | --- | --- |
 | **[Syntra](cases/syntra-bms.md)** | Industrial / building automation, reliable telemetry, BACnet / Delta enteliWEB | Field tests: one real controller, 32 points, one AHU | **Field-tested, read-only beta**; no controls/overrides |
-| **[SADS](cases/sads-education-ai.md)** | Arabic educational data, provenance and grounded AI | [Live Math application](https://sads.telosnexus.services/app) · 935 source-linked questions and solutions from 305 source pages | **Math experience deployed and verified**; other V2 subjects pending |
+| **[SADS](cases/sads-education-ai.md)** | Arabic educational data, provenance and grounded AI | [Live Math application](https://sads.telosnexus.services/app) · 935 questions and source-transcribed solutions from 305 pages; 929 questions with historical citations | **Math experience deployed and verified**; other V2 subjects pending |
 | **[Al-Ghazaly Knowledge Atlas](cases/alghazaly-atlas.md)** | Information retrieval, OCR, data integrity, evidence trails | [Live site](https://alghazaly.telosnexus.space) · 84 source editions / 37,145 scanned pages | **Public research platform**; OCR != human-reviewed scholarship |
 | **[Tally](cases/tally.md)** | Restaurant workflows and secure multi-tenant web/mobile systems | [Deployed guest app](https://tally-guest.web.app) | **Pilot-ready**; real restaurant acceptance pending |
 | **[Wasl](cases/wasl.md)** | Offline-aware, IQD billing and data integrity | 271 Flutter tests, 142 security-rules tests and 28 billing audit tests | **Tested build**, offline handset acceptance pending |
